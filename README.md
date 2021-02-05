@@ -13,3 +13,5 @@ An easy way to get started with JavaScript on the command line. [Read more about
 * `npm install`
 * `npm start`
 * optional: include *.env* in your *.gitignore*
+
+From tutorial https://www.apollographql.com/docs/tutorial/introduction/
